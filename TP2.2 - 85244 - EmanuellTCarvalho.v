@@ -1,4 +1,4 @@
-// TP2 - INF251 - OC1 - 2018/2
+// TP2.2 - INF251 - OC1 - 2018/2
 // ALUNO: Emanuell T. Carvalho
 // MATRÍCULA: 85244
 //
